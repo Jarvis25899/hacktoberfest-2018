@@ -7,3 +7,7 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Jainil Patel](https://github.com/Jarvis25899/)
+- Place: Bharuch, Gujarat, India
+- GitHub: [Jarvis25899](https://github.com/Jarvis25899/)
